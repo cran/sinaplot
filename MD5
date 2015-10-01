@@ -1,0 +1,10 @@
+a4e749eb72faeb7bdfb16dcb4e2ee0bd *DESCRIPTION
+c28f49057e8c50d9fb90b47aeafc453b *NAMESPACE
+56f2439be736a996c3a7158f2cd7f7f1 *R/data.R
+4bd8e28bb0a84b69e5418d9a24b79fd4 *R/sinaplot.R
+9c5f57ae4227dfd7c5877fe79658a87e *data/blood.rda
+48a5053f24499165f28b9dd4850235e1 *inst/figures/comparison.png
+6e34c8dc7181302181871ed62f112e81 *inst/temp.Rmd
+f342ab872678b76febb637f3e0720715 *man/blood.Rd
+fc39e83282da53c92dd7fe509071f1e7 *man/sinaplot.Rd
+02caa03a11116151b91150f537f5e2c3 *vignettes/SinaPlot.Rmd

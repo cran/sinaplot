@@ -1,0 +1,27 @@
+\docType{data}
+\name{blood}
+\alias{blood}
+\title{Expression data from 2095 AML/ALL and healthy bone marrow cells.}
+\format{A data frame with 2095 rows and 2
+columns (AML/ALL subtype, expression values).}
+\source{
+\url{http://servers.binf.ku.dk/bloodspot/}
+
+\url{http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13159}
+
+\url{http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15434}
+
+\url{http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61804}
+
+\url{http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14468}
+
+\url{http://cancergenome.nih.gov/}
+}
+\usage{
+data(blood)
+}
+\description{
+Expression data from 2095 AML/ALL and healthy bone marrow cells.
+}
+\keyword{datasets}
+

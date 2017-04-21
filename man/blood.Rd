@@ -5,7 +5,7 @@
 \alias{blood}
 \title{Expression data from 2095 AML/ALL and healthy bone marrow cells.}
 \format{A data frame with 2095 rows and 2
-columns (AML/ALL subtype, expression values).}
+columns (Class (AML/ALL subtype), Gene expression values).}
 \source{
 \url{http://servers.binf.ku.dk/bloodspot/}
 
@@ -26,4 +26,3 @@ data(blood)
 Expression data from 2095 AML/ALL and healthy bone marrow cells.
 }
 \keyword{datasets}
-

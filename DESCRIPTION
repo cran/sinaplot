@@ -2,8 +2,8 @@ Package: sinaplot
 Type: Package
 Title: An Enhanced Chart for Simple and Truthful Representation of
         Single Observations over Multiple Classes
-Version: 1.0.0
-Date: 2016-10-11
+Version: 1.1.0
+Date: 2017-04-10
 Authors@R: c(person("Nikos", "Sidiropoulos", role = c("aut", "cre"),
     email = "nikos.sidiro@gmail.com"), person("Sina Hadi", "Sohi", role = "aut",
     email = "sinasohi@gmail.com"), person("Nicolas", "Rapin", role = "aut",
@@ -20,12 +20,12 @@ Imports:
 License: GPL (>= 2)
 LazyData: TRUE
 VignetteBuilder: knitr
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2016-10-11 13:16:55 UTC; nikos
+Packaged: 2017-04-21 14:28:00 UTC; bfh139
 Author: Nikos Sidiropoulos [aut, cre],
   Sina Hadi Sohi [aut],
   Nicolas Rapin [aut],
   Frederik Otzen Bagger [aut]
 Repository: CRAN
-Date/Publication: 2016-10-11 18:56:55
+Date/Publication: 2017-04-21 17:58:31 UTC
